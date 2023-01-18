@@ -1,0 +1,70 @@
+<html>
+        <style>
+*{
+    transition: all 0.6s;
+}
+
+html {
+    height: 100%;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    color: rgb(0, 1, 12);
+    margin: 0;
+}
+
+#main{
+    display: table;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+.fof{
+	  display: table-cell;
+	  vertical-align: middle;
+}
+
+.fof h1{
+	  font-size: 75px;
+	  display: inline-block;
+	  padding-right: 12px;
+	  animation: type .5s alternate infinite;
+}
+
+@keyframes type{
+	  from{box-shadow: inset -3px 0px 0px #888;}
+	  to{box-shadow: inset -3px 0px 0px transparent;}
+}
+a {
+  background-color: red;
+  color: rgb(255, 255, 255);
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:hover {
+  background-color: #555;
+}
+
+a:active {
+  background-color: rgb(130, 53, 53);
+}
+
+a:visited {
+  background-color: rgb(0, 16, 245);
+}
+        </style>
+    
+    <body>
+        <div id="main">
+            <div class="fof">
+                    <h1>Error 404</h1><br>&nbsp;
+                    <h2>The requested URL was not found!</h2><br>
+                    <a href="/blog">Go back to Home Page</a>
+            </div>
+    </div>
+    </body>
+</html>
