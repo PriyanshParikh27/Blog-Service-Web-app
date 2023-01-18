@@ -1,7 +1,7 @@
 {
   "name": "blogservice-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Assignment 2 of WEB322(Web Programming Tools and Frameworks)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,5 +23,14 @@
     "sequelize": "^6.25.6",
     "streamifier": "^0.1.1",
     "strip-js": "^1.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriyanshParikh27/web322-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PriyanshParikh27/web322-app/issues"
+  },
+  "homepage": "https://github.com/PriyanshParikh27/web322-app#readme"
 }
