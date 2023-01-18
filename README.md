@@ -1,4 +1,4 @@
-# BlogService-Web-app: https://light-trunks-fawn.cyclic.app/blog
+# BlogService-Web-app: 
 Assignment 2 of WEB322(Web Programming Tools and Frameworks)
 
 Assignment 3 of WEB322(Web Programming Tools and Frameworks)
