@@ -7,7 +7,7 @@
  *  Name: __Priyansh Parikh__ Student ID: __158341214__ Date: __06/12/2022__
  *
  *  Cyclic Web App URL: https://light-trunks-fawn.cyclic.app/
- *  GitHub Repository URL: https://github.com/PriyanshParikh27/BlogService-Web-app
+ *  GitHub Repository URL: https://github.com/PriyanshParikh27/Blog-Service-Web-app
  *
  ********************************************************************************/
 
