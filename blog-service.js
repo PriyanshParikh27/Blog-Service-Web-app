@@ -1,10 +1,8 @@
 const Sequelize = require("sequelize");
-const env = require("dotenv")
-env.config()
 
-var sequelize = new Sequelize(process.env.DB_NAME, process.env.DB_USER, process.env.DB_PASSWORD,
+var sequelize = new Sequelize('napyxopb', 'napyxopb', 'fRuryCuR3VVXN8bsjtbMbubqMbtU8Voy',
   {
-    host: process.env.DB_HOST,
+    host: 'ruby.db.elephantsql.com',
     dialect: "postgres",
     port: 5432,
     dialectOptions: {

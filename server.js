@@ -23,14 +23,12 @@ const cloudinary = require("cloudinary").v2;
 const streamifier = require("streamifier");
 const stripJs = require("strip-js");
 const { info } = require("console");
-const env = require("dotenv")
-env.config()
 
 //coudinary configuration
 cloudinary.config({
-  cloud_name: process.env.CLOUD_NAME,
-  api_key: process.env.CLOUD_API_KEY,
-  api_secret: process.env.CLOUD_API_SECRET,
+  cloud_name: 'djf0txp1t',
+  api_key: '449117852326137',
+  api_secret: 'rCZrlvj_w_rqKazOH7VW47xH9Eo',
   secure: true,
 });
 //upload variable without any disk storage
