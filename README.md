@@ -1,10 +1,17 @@
-# BlogService-Web-app: 
-Assignment 2 of WEB322(Web Programming Tools and Frameworks)
+## A Blog-Service Web Application made with JavaScript(Express, Node.js, Handlebars), HTML & CSS
 
-Assignment 3 of WEB322(Web Programming Tools and Frameworks)
+## Requirements
+- Git (to clone this repo)
+- [NodeJS](https://nodejs.org/en/)
+- [Nodemon](https://nodemon.io/)
+- [Cloudinary Account](https://cloudinary.com/)
+- [ElephantSQL Account](https://www.elephantsql.com/)
 
-Assignment 4 of WEB322(Web Programming Tools and Frameworks)
 
-Assignment 5 of WEB322(Web Programming Tools and Frameworks)
+## Local Development
+1. Clone this repo - `git clone https://github.com/PriyanshParikh27/SoundExpress-Music-app.git`
+2. Copy `sample.env` as `.env` and customize as needed with Cloudinary and ElephantSQL Keys - `cp sample.env .env`
+3. Install npm packages - `npm install`
+4. Run local express server - `nodemon server.js`
 
-Assignment 6 of WEB322(Web Programming Tools and Frameworks)
+App will be available at http://localhost:8080
