@@ -1,15 +1,3 @@
-/*********************************************************************************
- *  BlogService-Web-App
- *  I declare that this assignment is my own work in accordance with Seneca Academic Policy.
- *  No part of this assignment has been copied manually or electronically from any other source
- *  (including web sites) or distributed to other students.
- *
- *  Name: __Priyansh Parikh__ Student ID: __158341214__ Date: __06/12/2022__
- *
- *  Cyclic Web App URL: https://light-trunks-fawn.cyclic.app/
- *  GitHub Repository URL: https://github.com/PriyanshParikh27/Blog-Service-Web-app
- *
- ********************************************************************************/
 
 var express = require("express");
 const clientSessions = require("client-sessions");
